@@ -12,3 +12,8 @@ Part 2:
 https://www.youtube.com/watch?v=P6ORQoLnDvU
 
 
+RTMP module used: https://github.com/winshining/nginx-http-flv-module
+
+
+
+
