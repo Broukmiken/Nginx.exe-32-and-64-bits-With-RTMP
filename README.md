@@ -7,12 +7,22 @@
  
 https://www.youtube.com/watch?v=Cc-xkQBZoIM
 
-Part 2:
+PART 2:
 
 https://www.youtube.com/watch?v=P6ORQoLnDvU
 
 
 RTMP module used: https://github.com/winshining/nginx-http-flv-module
+
+
+
+PART 3 : using nginx compiled as an RTMP server :
+
+adding files and configuring the RTMP stream...
+
+see https://youtu.be/whc4dtmpnNQ
+
+
 
 
 
