@@ -24,7 +24,7 @@ see https://youtu.be/whc4dtmpnNQ
 
 
 
-ALL FILES ARE HERE :
+ALL NEEDED FILES ARE HERE :
 
 
 https://github.com/Broukmiken/Nginx.exe-32-and-64-bits-With-RTMP/releases/latest
