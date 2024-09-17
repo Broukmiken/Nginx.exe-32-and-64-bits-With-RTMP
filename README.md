@@ -1,4 +1,6 @@
 # Nginx.exe-32-and-64-bits-With-RTMP
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Broukmiken/Nginx.exe-32-and-64-bits-With-RTMP/total">
+
  Here is my compiled nginx.exe 32 bits and 64 bits with RTMP module
 
  You can find my youtube video how to, step by step with multi languages subtitles :
